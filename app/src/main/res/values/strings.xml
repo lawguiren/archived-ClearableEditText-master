@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClearableEditText</string>
+    <string name="hint">hint</string>
+</resources>
